@@ -58,6 +58,6 @@ public class CurvePoint {
 
     @Override
     public String toString() {
-        return "CurvePoint{" + "id=" + id + ", curveId=" + curveId + ", term=" + term + ", value=" + value + '}';
+        return "CurvePoint{" + "id=" + id + ", curveId=" + curveId + ", asOfDate=" + asOfDate + ", term=" + term + ", value=" + value + ", creationDate=" + creationDate + '}';
     }
 }
