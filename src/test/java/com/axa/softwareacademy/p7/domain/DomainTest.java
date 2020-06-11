@@ -3,10 +3,9 @@ package com.axa.softwareacademy.p7.domain;
 import org.junit.jupiter.api.Test;
 
 import static pl.pojo.tester.api.assertion.Assertions.assertPojoMethodsFor;
-import static pl.pojo.tester.api.assertion.Method.CONSTRUCTOR;
-import static pl.pojo.tester.api.assertion.Method.GETTER;
+import static pl.pojo.tester.api.assertion.Method.*;
 
-public class UserTest {
+public class DomainTest {
 
     @Test
     public void testPojoUser() {
@@ -14,9 +13,11 @@ public class UserTest {
         final Class<?> classUnderTest = User.class;
 
         // Assert
-        assertPojoMethodsFor(classUnderTest) //
-                .testing(GETTER) //
-                .testing(CONSTRUCTOR) //
+        assertPojoMethodsFor(classUnderTest)
+                .testing(GETTER)
+                .testing(SETTER)
+                .testing(CONSTRUCTOR)
+                .testing(TO_STRING)
                 .areWellImplemented();
     }
 
@@ -26,7 +27,11 @@ public class UserTest {
         final Class<?> classUnderTest = CurvePoint.class;
 
         // Assert
-        assertPojoMethodsFor(classUnderTest) //
+        assertPojoMethodsFor(classUnderTest)
+                .testing(GETTER)
+                .testing(SETTER)
+                .testing(CONSTRUCTOR)
+                .testing(TO_STRING)
                 .areWellImplemented();
     }
 
@@ -36,7 +41,11 @@ public class UserTest {
         final Class<?> classUnderTest = Rating.class;
 
         // Assert
-        assertPojoMethodsFor(classUnderTest) //
+        assertPojoMethodsFor(classUnderTest)
+                .testing(GETTER)
+                .testing(SETTER)
+                .testing(CONSTRUCTOR)
+                .testing(TO_STRING)
                 .areWellImplemented();
     }
 
@@ -46,7 +55,11 @@ public class UserTest {
         final Class<?> classUnderTest = RuleName.class;
 
         // Assert
-        assertPojoMethodsFor(classUnderTest) //
+        assertPojoMethodsFor(classUnderTest)
+                .testing(GETTER)
+                .testing(SETTER)
+                .testing(CONSTRUCTOR)
+                .testing(TO_STRING)
                 .areWellImplemented();
     }
 
@@ -56,7 +69,11 @@ public class UserTest {
         final Class<?> classUnderTest = Trade.class;
 
         // Assert
-        assertPojoMethodsFor(classUnderTest) //
+        assertPojoMethodsFor(classUnderTest)
+                .testing(GETTER)
+                .testing(SETTER)
+                .testing(CONSTRUCTOR)
+                .testing(TO_STRING)
                 .areWellImplemented();
     }
 
@@ -66,7 +83,11 @@ public class UserTest {
         final Class<?> classUnderTest = BidList.class;
 
         // Assert
-        assertPojoMethodsFor(classUnderTest) //
+        assertPojoMethodsFor(classUnderTest)
+                .testing(GETTER)
+                .testing(SETTER)
+                .testing(CONSTRUCTOR)
+                .testing(TO_STRING)
                 .areWellImplemented();
     }
 }
