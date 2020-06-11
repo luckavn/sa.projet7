@@ -1,0 +1,75 @@
+
+body {
+    background-color: #1b1e21;
+}
+
+h2, label, th, td, h3 {
+    color: white;
+}
+
+h3 {
+    font-family: "Source Sans Pro Bold";
+}
+
+.homepage-text {
+
+}
+
+label {
+    padding-top: 15px;
+    margin-left: 0px;
+}
+
+.row {
+   margin: auto;
+}
+
+.row-title {
+    padding-top: 50px;
+}
+
+.input-field {
+    font-style: italic;
+}
+
+.col-sm-10 {
+    padding-left: 0px;
+}
+
+.col-6 {
+    padding-top: 50px;
+}
+
+.col-sm-12 {
+    padding-left: 0px;
+    padding-top: 20px;
+}
+
+.btn-submit {
+    font-weight: bold;
+}
+
+.table-bordered {
+    color: white;
+}
+
+.user {
+    padding-bottom: 10px;
+    color: white;
+}
+
+.logout {
+    padding-top: 10px;
+}
+
+.btn-add {
+    margin-bottom: 10px;
+}
+
+.role, .radio-role {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
