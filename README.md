@@ -31,7 +31,7 @@ mvn site (generate reportings)
 ```
 
 ```MyQL
-Hibernate no used : Please run file on your created db or : data.sql (src/java/resources)
+Hibernate no used : Please run file on your created db or : data-test.sql (src/java/resources)
 local (Hibernate used) : start Spring boot context and let hibernate create schema (may have to change spring.jpa.hibernate.ddl-auto in properties file)
 ```
 

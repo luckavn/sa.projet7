@@ -1,0 +1,133 @@
+2020-06-18 15:38:50,369 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:38:50,752 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:38:52,027 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:38:54,271 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:38:55,818 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:38:58,559 INFO c.a.s.p.c.TradeController [main] Display of trade's adding form
+2020-06-18 15:38:58,560 INFO c.a.s.p.c.TradeController [main] Trade{tradeId=null, account='null', type='null', buyQuantity=null, sellQuantity=null, buyPrice=null, sellPrice=null, benchmark='null', tradeDate=null, security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:38:59,466 INFO c.a.s.p.c.TradeController [main] Trade deleted successfully, model updated
+2020-06-18 15:38:59,466 INFO c.a.s.p.c.TradeController [main] Trade{tradeId=1, account='accountTest', type='typeTest', buyQuantity=null, sellQuantity=null, buyPrice=null, sellPrice=null, benchmark='null', tradeDate=null, security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:38:59,539 INFO c.a.s.p.c.TradeController [main] Trade saved successfully, model updated
+2020-06-18 15:38:59,539 INFO c.a.s.p.c.TradeController [main] Trade{tradeId=1, account='null', type='null', buyQuantity=null, sellQuantity=null, buyPrice=null, sellPrice=null, benchmark='null', tradeDate=null, security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:38:59,567 INFO c.a.s.p.c.TradeController [main] Display of trade list successful
+2020-06-18 15:39:18,336 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:39:18,457 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:39:18,793 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:39:21,962 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:39:23,712 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:39:26,940 INFO c.a.s.p.c.RuleNameController [main] Display of rulename list successful
+2020-06-18 15:39:27,491 INFO c.a.s.p.c.RuleNameController [main] Display of rulename's adding form
+2020-06-18 15:39:27,492 INFO c.a.s.p.c.RuleNameController [main] RuleName{id=null, name='null', description='null', json='null', template='null', sqlStr='null', sqlPart='null'}
+2020-06-18 15:42:09,238 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:42:09,362 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:42:09,649 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:42:11,600 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:42:13,133 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:42:16,364 INFO c.a.s.p.c.RuleNameController [main] Rulename deleted successfully, model updated
+2020-06-18 15:42:16,364 INFO c.a.s.p.c.RuleNameController [main] RuleName{id=1, name='nameTest', description='descriptionTest', json='null', template='null', sqlStr='null', sqlPart='null'}
+2020-06-18 15:42:16,455 INFO c.a.s.p.c.RuleNameController [main] Display of rulename list successful
+2020-06-18 15:42:17,102 INFO c.a.s.p.c.RuleNameController [main] Display of rulename's adding form
+2020-06-18 15:42:17,102 INFO c.a.s.p.c.RuleNameController [main] RuleName{id=null, name='null', description='null', json='null', template='null', sqlStr='null', sqlPart='null'}
+2020-06-18 15:42:17,208 INFO c.a.s.p.c.RuleNameController [main] Rulename saved successfully, model updated
+2020-06-18 15:42:17,208 INFO c.a.s.p.c.RuleNameController [main] RuleName{id=1, name='null', description='null', json='null', template='null', sqlStr='null', sqlPart='null'}
+2020-06-18 15:45:10,560 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:45:10,709 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:45:11,006 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:45:13,223 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:45:15,010 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:45:17,835 INFO c.a.s.p.c.RatingController [main] Rating deleted successfully, model updated
+2020-06-18 15:45:17,836 INFO c.a.s.p.c.RatingController [main] Rating{id=1, moodysRating='null', sandPRating='null', fitchRating='fitchRating', orderNumber=2}
+2020-06-18 15:45:17,923 INFO c.a.s.p.c.RatingController [main] Display of rating's adding form
+2020-06-18 15:45:17,923 INFO c.a.s.p.c.RatingController [main] Rating{id=null, moodysRating='null', sandPRating='null', fitchRating='null', orderNumber=null}
+2020-06-18 15:45:18,497 INFO c.a.s.p.c.RatingController [main] Rating saved successfully, model updated
+2020-06-18 15:45:18,498 INFO c.a.s.p.c.RatingController [main] Rating{id=1, moodysRating='null', sandPRating='null', fitchRating='null', orderNumber=null}
+2020-06-18 15:45:18,526 INFO c.a.s.p.c.RatingController [main] Display of rating list successful
+2020-06-18 15:46:20,367 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:46:20,484 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:46:20,794 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:46:22,718 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:46:24,276 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:46:27,081 INFO c.a.s.p.c.RatingController [main] Rating deleted successfully, model updated
+2020-06-18 15:46:27,082 INFO c.a.s.p.c.RatingController [main] Rating{id=1, moodysRating='null', sandPRating='null', fitchRating='fitchRating', orderNumber=2}
+2020-06-18 15:46:27,177 INFO c.a.s.p.c.RatingController [main] Display of rating's adding form
+2020-06-18 15:46:27,177 INFO c.a.s.p.c.RatingController [main] Rating{id=null, moodysRating='null', sandPRating='null', fitchRating='null', orderNumber=null}
+2020-06-18 15:46:27,771 INFO c.a.s.p.c.RatingController [main] Rating saved successfully, model updated
+2020-06-18 15:46:27,772 INFO c.a.s.p.c.RatingController [main] Rating{id=1, moodysRating='null', sandPRating='null', fitchRating='null', orderNumber=null}
+2020-06-18 15:46:27,799 INFO c.a.s.p.c.RatingController [main] Display of rating list successful
+2020-06-18 15:48:48,967 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:48:49,069 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:48:49,359 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:48:51,647 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:48:53,394 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:48:56,244 INFO c.a.s.p.c.CurveController [main] Curvepoint saved successfully, model updated
+2020-06-18 15:48:56,245 INFO c.a.s.p.c.CurveController [main] CurvePoint{id=1, curveId=null, asOfDate=null, term=null, value=null, creationDate=null}
+2020-06-18 15:48:56,338 INFO c.a.s.p.c.CurveController [main] Display of curvepoint's list successful
+2020-06-18 15:48:56,926 INFO c.a.s.p.c.CurveController [main] Display of curvepoint's adding form
+2020-06-18 15:48:56,926 INFO c.a.s.p.c.CurveController [main] CurvePoint{id=null, curveId=null, asOfDate=null, term=null, value=null, creationDate=null}
+2020-06-18 15:48:57,007 INFO c.a.s.p.c.CurveController [main] Curvepoint deleted successfully, model updated
+2020-06-18 15:48:57,008 INFO c.a.s.p.c.CurveController [main] CurvePoint{id=1, curveId=2, asOfDate=null, term=null, value=3.0, creationDate=null}
+2020-06-18 15:51:15,400 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:51:15,590 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:51:16,060 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:51:19,288 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:51:20,911 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:51:23,656 INFO c.a.s.p.c.BidListController [main] Bidlist saved successfuly, model updated
+2020-06-18 15:51:23,657 INFO c.a.s.p.c.BidListController [main] BidList{bidListId=1, account='null', type='null', bidQuantity=null, askQuantity=null, bid=null, ask=null, benchmark='null', bidListDate=null, commentary='null', security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:51:23,807 INFO c.a.s.p.c.BidListController [main] Bidlist deleted successfuly, model updated
+2020-06-18 15:51:23,807 INFO c.a.s.p.c.BidListController [main] BidList{bidListId=1, account='accountTest', type='null', bidQuantity=null, askQuantity=null, bid=null, ask=null, benchmark='null', bidListDate=null, commentary='null', security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='dealNameTest', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:51:23,844 INFO c.a.s.p.c.BidListController [main] Display of bidlist's list successful
+2020-06-18 15:51:24,433 INFO c.a.s.p.c.BidListController [main] Display of bidlist's adding form
+2020-06-18 15:51:24,434 INFO c.a.s.p.c.BidListController [main] BidList{bidListId=null, account='null', type='null', bidQuantity=null, askQuantity=null, bid=null, ask=null, benchmark='null', bidListDate=null, commentary='null', security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:52:07,682 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:52:07,907 INFO o.h.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-18 15:52:08,462 INFO o.h.a.c.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-18 15:52:10,806 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:52:12,826 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:52:16,419 INFO c.a.s.p.c.BidListController [main] Bidlist saved successfuly, model updated
+2020-06-18 15:52:16,419 INFO c.a.s.p.c.BidListController [main] BidList{bidListId=1, account='null', type='null', bidQuantity=null, askQuantity=null, bid=null, ask=null, benchmark='null', bidListDate=null, commentary='null', security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:52:16,560 INFO c.a.s.p.c.BidListController [main] Bidlist deleted successfuly, model updated
+2020-06-18 15:52:16,560 INFO c.a.s.p.c.BidListController [main] BidList{bidListId=1, account='accountTest', type='null', bidQuantity=null, askQuantity=null, bid=null, ask=null, benchmark='null', bidListDate=null, commentary='null', security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='dealNameTest', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:52:16,600 INFO c.a.s.p.c.BidListController [main] Display of bidlist's list successful
+2020-06-18 15:52:17,459 INFO c.a.s.p.c.BidListController [main] Display of bidlist's adding form
+2020-06-18 15:52:17,459 INFO c.a.s.p.c.BidListController [main] BidList{bidListId=null, account='null', type='null', bidQuantity=null, askQuantity=null, bid=null, ask=null, benchmark='null', bidListDate=null, commentary='null', security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:52:17,588 INFO c.a.s.p.c.CurveController [main] Curvepoint saved successfully, model updated
+2020-06-18 15:52:17,588 INFO c.a.s.p.c.CurveController [main] CurvePoint{id=1, curveId=null, asOfDate=null, term=null, value=null, creationDate=null}
+2020-06-18 15:52:17,629 INFO c.a.s.p.c.CurveController [main] Display of curvepoint's list successful
+2020-06-18 15:52:17,682 INFO c.a.s.p.c.CurveController [main] Display of curvepoint's adding form
+2020-06-18 15:52:17,683 INFO c.a.s.p.c.CurveController [main] CurvePoint{id=null, curveId=null, asOfDate=null, term=null, value=null, creationDate=null}
+2020-06-18 15:52:17,740 INFO c.a.s.p.c.CurveController [main] Curvepoint deleted successfully, model updated
+2020-06-18 15:52:17,741 INFO c.a.s.p.c.CurveController [main] CurvePoint{id=1, curveId=2, asOfDate=null, term=null, value=3.0, creationDate=null}
+2020-06-18 15:52:17,814 INFO c.a.s.p.c.RatingController [main] Rating deleted successfully, model updated
+2020-06-18 15:52:17,814 INFO c.a.s.p.c.RatingController [main] Rating{id=1, moodysRating='null', sandPRating='null', fitchRating='fitchRating', orderNumber=2}
+2020-06-18 15:52:17,843 INFO c.a.s.p.c.RatingController [main] Display of rating's adding form
+2020-06-18 15:52:17,843 INFO c.a.s.p.c.RatingController [main] Rating{id=null, moodysRating='null', sandPRating='null', fitchRating='null', orderNumber=null}
+2020-06-18 15:52:17,917 INFO c.a.s.p.c.RatingController [main] Rating saved successfully, model updated
+2020-06-18 15:52:17,917 INFO c.a.s.p.c.RatingController [main] Rating{id=1, moodysRating='null', sandPRating='null', fitchRating='null', orderNumber=null}
+2020-06-18 15:52:17,957 INFO c.a.s.p.c.RatingController [main] Display of rating list successful
+2020-06-18 15:52:18,051 INFO c.a.s.p.c.RuleNameController [main] Rulename deleted successfully, model updated
+2020-06-18 15:52:18,051 INFO c.a.s.p.c.RuleNameController [main] RuleName{id=1, name='nameTest', description='descriptionTest', json='null', template='null', sqlStr='null', sqlPart='null'}
+2020-06-18 15:52:18,094 INFO c.a.s.p.c.RuleNameController [main] Display of rulename list successful
+2020-06-18 15:52:18,155 INFO c.a.s.p.c.RuleNameController [main] Display of rulename's adding form
+2020-06-18 15:52:18,155 INFO c.a.s.p.c.RuleNameController [main] RuleName{id=null, name='null', description='null', json='null', template='null', sqlStr='null', sqlPart='null'}
+2020-06-18 15:52:18,232 INFO c.a.s.p.c.RuleNameController [main] Rulename saved successfully, model updated
+2020-06-18 15:52:18,232 INFO c.a.s.p.c.RuleNameController [main] RuleName{id=1, name='null', description='null', json='null', template='null', sqlStr='null', sqlPart='null'}
+2020-06-18 15:52:18,290 INFO c.a.s.p.c.TradeController [main] Display of trade's adding form
+2020-06-18 15:52:18,291 INFO c.a.s.p.c.TradeController [main] Trade{tradeId=null, account='null', type='null', buyQuantity=null, sellQuantity=null, buyPrice=null, sellPrice=null, benchmark='null', tradeDate=null, security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:52:18,362 INFO c.a.s.p.c.TradeController [main] Trade deleted successfully, model updated
+2020-06-18 15:52:18,363 INFO c.a.s.p.c.TradeController [main] Trade{tradeId=1, account='accountTest', type='typeTest', buyQuantity=null, sellQuantity=null, buyPrice=null, sellPrice=null, benchmark='null', tradeDate=null, security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:52:18,421 INFO c.a.s.p.c.TradeController [main] Trade saved successfully, model updated
+2020-06-18 15:52:18,422 INFO c.a.s.p.c.TradeController [main] Trade{tradeId=1, account='null', type='null', buyQuantity=null, sellQuantity=null, buyPrice=null, sellPrice=null, benchmark='null', tradeDate=null, security='null', status='null', trader='null', book='null', creationName='null', creationDate=null, revisionName='null', revisionDate=null, dealName='null', dealType='null', sourceListId='null', side='null'}
+2020-06-18 15:52:18,459 INFO c.a.s.p.c.TradeController [main] Display of trade list successful
+2020-06-18 15:52:18,521 INFO c.a.s.p.c.UserController [main] Display of user's adding form
+2020-06-18 15:52:18,521 INFO c.a.s.p.c.UserController [main] User{id=null, username='null', password='null', fullname='null', role='null'}
+2020-06-18 15:52:18,829 INFO c.a.s.p.c.UserController [main] User saved successfully, model updated
+2020-06-18 15:52:18,829 INFO c.a.s.p.c.UserController [main] User{id=1, username='Lucas Vannier', password='$2a$10$lgzkXn8Os054fvdq.ok68u9Q5MU6ctxEdcUA9sAkmy2QH9AZYepXa', fullname='lucka', role='ADMIN'}
+2020-06-18 15:52:18,879 INFO c.a.s.p.c.UserController [main] User deleted successfully, model updated
+2020-06-18 15:52:18,880 INFO c.a.s.p.c.UserController [main] User{id=2, username='admin', password='test', fullname='Administrator', role='ADMIN'}
+2020-06-18 15:52:18,918 INFO c.a.s.p.c.UserController [main] Users found successfully, model updated
+2020-06-18 15:52:20,341 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:52:20,400 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:52:21,400 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-18 15:52:25,255 INFO o.h.j.i.u.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-18 15:52:25,322 INFO o.h.d.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-06-18 15:52:26,545 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
